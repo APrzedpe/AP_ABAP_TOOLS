@@ -1,9 +1,3 @@
-************************************************************************
-* KBJ S.A. All rights reserved.
-* author: APRZEDPELSKI.
-* email:  sy-email.
-* date:   20170706.
-************************************************************************
 data: gt_data     type zkbj_hcp_tt_fbcj.
 
 class lcl_handle_events definition deferred.
